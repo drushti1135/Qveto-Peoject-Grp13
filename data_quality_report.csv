@@ -1,0 +1,12 @@
+Validation_Check,Result
+Rows,12000
+Columns,18
+Exact duplicate rows,0
+Missing order dates,0
+Non-positive unit prices,0
+Discounts below 0%,0
+Discounts above 100%,0
+Zero quantities,90
+Negative quantities,96
+Future-dated records,32
+Missing customer ratings,6056
