@@ -18,8 +18,8 @@ This task involved selecting an e-commerce retail transactions dataset and prepa
 - Added a provisional transaction value column.
 
 ## Files Included
-- `dataset_raw.csv` – Original dataset.
-- `dataset_cleaned.csv` – Cleaned dataset.
+- `ecommerce_retail_transactions_raw.csv` – Original dataset.
+- `ecommerce_retail_transactions_cleaned.csv` – Cleaned dataset.
 - `cleaning_summary.csv` – Summary of cleaning activities.
 - `data_quality_report.csv` – Data quality checks and results.
 
