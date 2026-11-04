@@ -1,5 +1,3 @@
-MEMBER 4 - UPDATED EDA SUBMISSION
-
 Contents:
 1. eda_analysis.py - complete EDA source code
 2. EDA_Analysis.ipynb - Jupyter Notebook that runs the Python source file
