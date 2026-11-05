@@ -1,9 +1,0 @@
-Cleaning_Action,Record_Count,Notes
-Exact duplicate rows removed,180,Removed exact duplicate records
-Missing discounts filled,722,Filled with median discount: 5.0
-Missing shipping cities filled,494,Replaced with Unknown
-Missing customer ratings preserved,6056,Left missing; no rating was inferred
-Future-dated records flagged,32,Retained for review
-Zero quantity records flagged,90,Retained for review
-Negative quantity records flagged,96,Retained for review
-Negative quantity/non-Returned status flagged,87,Retained for review
