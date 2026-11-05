@@ -2,9 +2,8 @@
 Contents:
 1. eda_analysis.py - complete EDA source code
 2. EDA_Analysis.ipynb - Jupyter Notebook that runs the Python source file
-3. Dataset/ - cleaned CSV required to run the project
-4. EDA_Output/Charts/ - generated charts (including Advanced_Charts)
-5. EDA_Output/Reports/ - generated CSV and business insight reports
+3. Charts/ - generated charts (including Advanced_Charts)
+5. EDA_Reports/ - generated CSV and business insight reports
 
 HOW TO RUN:
 1. Extract the ZIP file.
