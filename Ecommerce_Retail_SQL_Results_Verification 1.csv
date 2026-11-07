@@ -1,0 +1,11 @@
+Check,Status,Verification_Detail
+Eligible net sales,PASS,"CSV recomputation $764,592.24; KPI export $764,592.24"
+Eligible delivered orders,PASS,"6,451 recomputed vs 6,451 exported"
+Eligible units sold,PASS,"13,374 recomputed vs 13,374 exported"
+AOV,PASS,$118.52 recomputed vs $118.52 exported
+Category sales,PASS,All 8 category totals match the exported category_sales.csv to the cent.
+Country sales,PASS,All 7 country totals match the exported country_sales.csv to the cent.
+Order status counts,PASS,All 5 status counts match order_status.csv.
+Rating distribution,PASS,"5,944 available ratings; mean 3.90/5."
+Monthly sales,PASS,34 month totals match monthly_sales.csv to the cent.
+Order-level totals,PASS,"12,000 rows, 18 columns, 12,000 unique order IDs."
